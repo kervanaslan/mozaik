@@ -1,0 +1,14 @@
+{
+    "name": "mozaik/mozaik",
+    "autoload": {
+        "psr-4": {
+            "Mozaik\\Mozaik\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mozaik"
+        }
+    ],
+    "require": {}
+}
